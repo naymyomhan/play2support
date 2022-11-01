@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a50cd366cf9b54987b617568ff5c7623
+  - enabled: 1
+    path: Assets/Scenes/ColorSwitchGame.unity
+    guid: feb298b885df343dd972962c6e1aafbf
+  - enabled: 1
+    path: Assets/Scenes/NinjaGame.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 6865e67ebe63847d7b62e54cf43b4287, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 072c9288a39034472a4695999edd88e4, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a3662bcfe1c2f478c8d15cafb6d480f9, type: 2}
